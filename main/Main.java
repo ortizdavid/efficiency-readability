@@ -2,7 +2,6 @@ package main;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import src.CsvReader;
 import src.Factorial;
 import src.StringList;
@@ -30,7 +29,6 @@ public class Main {
         stringList.add("Task 2, Pending");
         stringList.add("Task 3, In Progress");
         stringList.add("Task 4, Completed");
-
         StringList.transform1(stringList);
         StringList.print(stringList, 2);
         StringList.transform2(stringList);
@@ -40,5 +38,4 @@ public class Main {
         StringList.transform4(stringList);
         StringList.print(stringList, 4);
     }
-    
 }

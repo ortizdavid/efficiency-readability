@@ -7,3 +7,7 @@ Explain differences between efficiency and readability
 - Factorial
 - Transform List of Strings
 - Csv Reading
+
+
+# Figure
+![Figure](Figure.jpg)
